@@ -1,27 +1,23 @@
-```zsh
-> neofetch
-```
+## Hey there! I'm Ian.
 
-<img align="left" src="" alt="" width="320" /> 
+<p align='center'>
+<a href="mailto:dev.iansmathew@gmail.com"><img height="30" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_email.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/iansmathew/"><img height="30" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_linkedin.png"></a>&nbsp;&nbsp;
 
-```csharp
-anordinaryusername@github
--------------------------
-OS: Arch Linux x86_64
-Shell: zsh 5.8
-Pronouns: He/Him
-Location: Artesia, CA
-Frameworks: React
-Languages: JavaScript, TypeScript,
-           HTML, CSS
-Learning: Node.js, Express, PostgreSQL,
-          Three.js, CPP
-Hobbies: Gardening, Cooking, Gaming
-Commits: 987
-Stars: 10
-Discord: RandomPotato#1377
-```
-<p align="left">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="#474342" src="https://via.placeholder.com/15/474342/000000?text=+" width="25" height="20" /><img alt="#fbedf6" src="https://via.placeholder.com/15/fbedf6/000000?text=+" width="25" height="20" /><img alt="#c9594d" src="https://via.placeholder.com/15/c9594d/000000?text=+" width="25" height="20" /><img alt="#f8b9b2" src="https://via.placeholder.com/15/f8b9b2/000000?text=+" width="25" height="20" /><img alt="#ae9c9d" src="https://via.placeholder.com/15/ae9c9d/000000?text=+" width="25" height="20" />
 </p>
+
+---
+
+### 🙋🏽‍♂️About Me
+
+<p> 안녕하세요 솔휘입니다. </a>.
+</p>
+
+### 👨🏽‍💻Tech Stack
+
+<p>
+Here are a few things I've picked up along my learning journey.
+</p>
+
+- 🗣 C++ 𒑰 C# 𒑰
+- 🎮 Unity3D 𒑰
