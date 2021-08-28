@@ -5,12 +5,18 @@
 
 ##
 
+🔭  I'm currently developing in `c++`, `c#`
+
 📚  DirectX 2D 공부 중
 
 💌  개인 공부 블로그
 [![blog](http://img.shields.io/badge/blog-Naver-03C75A?style=flatr&link=https://blog.naver.com/psh50zmfhtm)](https://blog.naver.com/psh50zmfhtm)
 
-🔭  I'm currently developing in `c++`, `c#`
+🌞 출시한 게임
+https://play.google.com/store/apps/details?id=com.EXPstudio.RaisingStudent
+https://play.google.com/store/apps/details?id=com.expStudio.android.koalaarcher
+https://play.google.com/store/apps/details?id=com.exp.queen
+https://play.google.com/store/apps/details?id=com.ExP.TheDream
 
 ##
 
