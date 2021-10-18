@@ -7,7 +7,7 @@
 
 🔭  I'm currently developing in `c++`, `c#`
 
-📚  DirectX 2D 공부 중
+📚  Unity, DirectX 공부 중
 
 💌  개인 공부 블로그
 [![blog](http://img.shields.io/badge/blog-Naver-03C75A?style=flatr&link=https://blog.naver.com/psh50zmfhtm)](https://blog.naver.com/psh50zmfhtm)
