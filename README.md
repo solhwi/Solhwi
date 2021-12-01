@@ -7,12 +7,13 @@
 
 🔭  I'm currently developing in `c++`, `c#`
 
-📚  Unity 공부 중
+📚  Unity 탐구 중
 
 💌  개인 공부 블로그
-[![blog](http://img.shields.io/badge/blog-Naver-03C75A?style=flatr&link=https://blog.naver.com/psh50zmfhtm)](https://blog.naver.com/psh50zmfhtm)
+[![blog](http://img.shields.io/badge/blog-Tistory-03C75A?style=flatr&link=https://blog.naver.com/psh50zmfhtm)](https://blog.naver.com/psh50zmfhtm)
 
 🌞 출시한 게임
+  
 - [컴공생키우기](https://play.google.com/store/apps/details?id=com.EXPstudio.RaisingStudent)
 - [배고픈코활라](https://play.google.com/store/apps/details?id=com.expStudio.android.koalaarcher)
 - [Queen](https://play.google.com/store/apps/details?id=com.exp.queen)
