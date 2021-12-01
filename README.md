@@ -11,6 +11,7 @@
 
 💌  개인 공부 블로그
 [![blog](http://img.shields.io/badge/blog-Tistory-orange?style=flatr&link=https://psh50zmfhtm.tistory.com/)](https://psh50zmfhtm.tistory.com/)
+[![blog](http://img.shields.io/badge/blog-Naver-green?style=flatr&link=https://blog.naver.com/psh50zmfhtm)](https://blog.naver.com/psh50zmfhtm)
 
 
 🌞 출시한 게임
