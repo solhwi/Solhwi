@@ -11,7 +11,6 @@
 
 💌  개인 공부 블로그
 [![blog](http://img.shields.io/badge/blog-Naver-03C75A?style=flatr&link=https://blog.naver.com/psh50zmfhtm)](https://blog.naver.com/psh50zmfhtm)
-[![blog](http://img.shields.io/badge/blog-Naver-03C75A?style=flatr&link=https://psh50zmfhtm.tistory.com/)](https://psh50zmfhtm.tistory.com/)
 
 🌞 출시한 게임
 - [컴공생키우기](https://play.google.com/store/apps/details?id=com.EXPstudio.RaisingStudent)
